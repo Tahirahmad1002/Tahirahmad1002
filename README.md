@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tahirahmad1002
-- 👀 I’m interested in web development, programming, and technology.
-- 🌱 I’m currently learning web development, focusing on HTML, CSS, and JavaScript.
+- 👀 I’m interested in AI, Machine Learning, Flutter deveoplment, Game developmentweb development, programming, and technology.
+- 🌱 I’m currently learning AI and Flutter, focusing on ML, DL, and Dart.
 - 💞️ I’m looking to collaborate on open-source projects and web applications.
 - 📫 How to reach me: [tahirahmad1002@gmail.com]
 
