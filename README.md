@@ -123,27 +123,7 @@ class TahirAhmad:
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tahirahmad1002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tahirahmad1002&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=EC4899)
-
-</div>
-
----
 
 ## 🎓 Currently Learning & Exploring
 
